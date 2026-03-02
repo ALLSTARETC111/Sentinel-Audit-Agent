@@ -1,5 +1,0 @@
-flask
-gunicorn
-web3
-requests
-python-dotenv 
