@@ -1,3 +1,0 @@
-web3==7.14.1
-python-telegram-bot==22.6
-asyncio
