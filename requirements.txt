@@ -1,0 +1,6 @@
+flask==3.0.3
+gunicorn==25.1.0
+web3==7.1.0
+eth-account==0.13.1
+requests==2.32.3
+websockets==14.2
